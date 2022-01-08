@@ -10,13 +10,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/stiliajohny/dockerfiles">
-    <img src="https://raw.githubusercontent.com/stiliajohny/dockerfiles/main/.assets/logo.png" alt="Main Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/stiliajohny/dockerfiles/master/.assets/logo.png" alt="master Logo" width="80" height="80">
   </a>
 
   <h3 align="center">dockerfiles</h3>
 
   <p align="center">
-    Personal collection of dockerfiles for various use-cases 
+    Personal collection of dockerfiles for various use-cases
     <br />
     <a href="./README.md"><strong>Explore the docs »</strong></a>
     <br />
