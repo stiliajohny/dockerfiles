@@ -52,7 +52,6 @@ Here lyes my collection of dockerfiles. Use it with caution.
 
 - Docker
 - Jekyll
-- ***
 
 <!-- GETTING STARTED -->
 
