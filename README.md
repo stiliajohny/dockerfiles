@@ -71,6 +71,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- Add a link to the tor folder  -->
 
 - <a href="./tor/">Tor</a>
+- <a href="./devbox/">Devbox</a>
 
 <!-- ROADMAP -->
 
