@@ -70,8 +70,8 @@ To get a local copy up and running follow these simple example steps.
 
 <!-- Add a link to the tor folder  -->
 
-- <a href="./tor/">Tor</a>
-- <a href="./devbox/">Devbox</a>
+- <a href="./tor">./dockerfile</a> - Run your development environment and tools in a container
+- <a href="./tor">./dockerfile</a> - Run TOR in a container
 
 <!-- ROADMAP -->
 
