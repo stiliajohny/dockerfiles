@@ -1,0 +1,14 @@
+version: '3.2'
+
+services:
+  devbox:
+    build:
+      context: ./
+    volumes:
+      - ./:/app
+    networks:
+      - main_network
+
+networks:
+  main_network:
+    driver: bridge
