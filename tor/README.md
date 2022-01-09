@@ -20,6 +20,8 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+    - [Build the image](#build-the-image)
+    - [Run the container](#run-the-container)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -46,6 +48,12 @@
 - Docker ( or any container runtime )
 
 ### Installation
+
+#### Build the image
+
+`docker build -t dockerfiles-tor .`
+
+#### Run the container
 
 - `docker run -it -p 9050:9050 -d --name dockerfiles-tor dockerfiles-tor`
 - `docker-compose up -d`
