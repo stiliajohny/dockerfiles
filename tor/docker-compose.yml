@@ -1,0 +1,16 @@
+version: '3.2'
+
+services:
+  tor_service:
+    build:
+      context: ./
+    volumes:
+      - ./:/app
+    ports:
+      - 9050:9050
+    networks:
+      - main_network
+
+networks:
+  main_network:
+    driver: bridge
