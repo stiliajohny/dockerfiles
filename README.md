@@ -7,7 +7,6 @@
 [![Ask Me Anything][ask-me-anything]][personal-page]
 
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://github.com/stiliajohny/dockerfiles">
     <img src="https://raw.githubusercontent.com/stiliajohny/dockerfiles/master/.assets/logo.png" alt="master Logo" width="80" height="80">
@@ -70,8 +69,9 @@ To get a local copy up and running follow these simple example steps.
 
 <!-- Add a link to the tor folder  -->
 
-- <a href="./tor">./dockerfile</a> - Run your development environment and tools in a container
+- <a href="./devbox">./devbox</a> - Run your development environment and tools in a container
 - <a href="./tor">./dockerfile</a> - Run TOR in a container
+- <a href="./firefox">./firefox</a> - Run Firefox with GUI in a container
 
 <!-- ROADMAP -->
 
