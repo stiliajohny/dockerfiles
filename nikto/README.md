@@ -141,8 +141,8 @@ John Stilia - stilia.johny@gmail.com
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributor-shield]: https://img.shields.io/github/contributor/stiliajohny/dockerfiles.svg?style=for-the-badge
-[contributor-url]: https://github.com/stiliajohny/dockerfiles/graphs/contributor
+[contributors-shield]: https://img.shields.io/github/contributors/stiliajohny/dockerfiles.svg?style=for-the-badge
+[contributors-url]: https://github.com/stiliajohny/dockerfiles/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/stiliajohny/dockerfiles.svg?style=for-the-badge
 [forks-url]: https://github.com/stiliajohny/dockerfiles/network/members
 [stars-shield]: https://img.shields.io/github/stars/stiliajohny/dockerfiles.svg?style=for-the-badge
