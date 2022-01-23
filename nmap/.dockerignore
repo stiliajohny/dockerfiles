@@ -1,0 +1,17 @@
+
+.git
+.cache
+.assets
+.idea
+.vscode
+.vscode-test
+.vscode-test-cache
+.vscode-test-logs
+.vscode-test-results
+.vscode-test-state
+.vscode-test-tmp
+.vscode-test-workspace
+*.md
+*.yaml
+*.yml
+Dockerfile.*
