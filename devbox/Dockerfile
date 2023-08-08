@@ -1,6 +1,6 @@
 # docker run -it --rm --network=host dockerfiles-devbox /bin/zsh
 
-FROM alpine:latest
+FROM alpine:3.18.3
 LABEL maintainer="John Stilia <stilia.johny@gmail.com>"
 
 # User and Password , Change on demand
