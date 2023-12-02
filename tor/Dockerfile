@@ -1,4 +1,4 @@
-FROM alpine:3.17.3
+FROM alpine:3.18.5
 LABEL maintainer="John Stilia <stilia.johny@gmail.com>"
 
 # ENV USER=devuser
