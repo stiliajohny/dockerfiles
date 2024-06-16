@@ -1,6 +1,6 @@
 # docker run -it --rm --network=host -v ${PWD}:/scans dockerfiles-nmap --help
 
-FROM alpine:3.17.3
+FROM alpine:3.18.6
 LABEL maintainer="John Stilia <stilia.johny@gmail.com>"
 
 # User and Password , Change on demand
