@@ -1,6 +1,6 @@
 # docker run -it --rm --network=host dockerfiles-nikto -h
 
-FROM alpine:3.17.3
+FROM alpine:3
 LABEL maintainer="John Stilia <stilia.johny@gmail.com>"
 
 # User and Password , Change on demand
